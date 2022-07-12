@@ -1,8 +1,7 @@
-
-export {debounce} from "./js/debounce"
-export {throttle} from './js/throttle'
+export { debounce } from './js/debounce'
+export { throttle } from './js/throttle'
 import is from './js/test'
-export { is}
+export { is }
 export {
   range,
   sleep,

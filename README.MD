@@ -1,9 +1,5 @@
-# 使用cli创建的 Vue3/Vite 版本的 uni-app 项目模版
+# [caring-js](https://github.com/Fascinating-W/caring-js)
 
-## 支持sass
-https://vitejs.cn/guide/features.html#css-modules
-
-pnpm install sass -D
-
-## 运行
-h5: npm run serve
+## 20220712 `0.0.1`
+#### 新特性
+- 基础工具库发布
